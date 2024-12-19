@@ -5,19 +5,19 @@ Un projet imposé par la trame de la formation et s'inspirant de certaines exten
 Ici nous étions deux sur la programmation du back-end et une personne de l'équipe concentrée sur le front-end. 
 
 ## Caractéristiques
-État du projet : En cours /
+État du projet : Prototype
 Nombre de participants : Équipe (4 personnes) /
-Technologies front-end :CSS - Html /
+Technologies front-end : CSS / Html / Javascript 
 
-Service : SUPABASE
+Service : chrome
 
 Refactorisation : Non
-UX/UI : Non
+UX/UI : Oui
 IDE : VSCode
 OS : Mac / OS / Linux
 
 ## Utilisation
-S'exécute via l'IDE VsCode et doit être lancer avec cette ligne de commande : 
+S'exécute via l'IDE VsCode et avec le navigateur Google chrome en activant via l'icône "Extensions" et cliquer sur "charger l'extension non empaquetée" puis cliquer sur le dossier contenant le code de l'extension de navigateur. 
 
-## Contributions
-Partie front-end : https://github.com/guillaume-vcnt/microblogging_project
+
+
