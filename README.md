@@ -17,7 +17,7 @@ IDE : VSCode
 OS : Mac / OS / Linux
 
 ## Utilisation
-S'exécute via l'IDE VsCode et avec le navigateur Google chrome en activant via l'icône "Extensions" et cliquer sur "charger l'extension non empaquetée" puis cliquer sur le dossier contenant le code de l'extension de navigateur. 
+S'exécute via l'IDE VsCode et avec le navigateur Google chrome en l'activant via l'icône "Extensions" et cliquant sur "charger l'extension non empaquetée" puis cliquer sur le dossier contenant le code de l'extension de navigateur. 
 
 
 
