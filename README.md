@@ -18,5 +18,6 @@ OS : Mac / OS / Linux
 ## Utilisation
 S'exécute via l'IDE VsCode et avec le navigateur Google chrome en l'activant via l'icône "Extensions" et cliquant sur "charger l'extension non empaquetée" puis cliquer sur le dossier contenant le code de l'extension de navigateur. 
 
-
+## Contributeurs
+* Celinelylou n'est pas contributrice de ce projet, elle était seulement détentrice de mon pc actuel et possédait la même clef SSH que j'ai actuellement. 
 
